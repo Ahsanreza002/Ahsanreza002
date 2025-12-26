@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Ahsanreza002
-- 👀 I’m interested in exploring new things
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @Ahsanreza002  
 
-<!---
-Ahsanreza002/Ahsanreza002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Software Engineer with a strong interest in backend development, scalable systems, and problem-solving.
+
+🌱 Currently learning Data Structures & Algorithms, system design fundamentals, and building real-world backend projects.
+
+🤝 Open to collaborating on backend, Python, and system-oriented projects.
+
+📫 Reach me at:  
+- Email: mohammadahsanreza20@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mohammadahsanreza02
